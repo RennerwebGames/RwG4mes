@@ -1,208 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] TV AO VIVO [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20MENU%20TV</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9rgnRclKFujAAhvtKFlsxcHVHorwaW3hXwDmr_-fMcpgA4-rL</fanart>
-<info>
-
-
-[B][COLOR lime] CANAIS DE TV AO VIVO [/COLOR] [COLOR red]
-
-
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837 
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] ==== TWO-ADDONS BR ====[/COLOR][/B]</name>
+<thumbnail>https://ia601507.us.archive.org/4/items/two-addons-bm-vindos/two%20addons%20BM%20VINDOS.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue] Bem vindo ao addon TWOADDONS BR. [/COLOR]</info>
+<externallink>https://0.0.0</externallink>
 </channel>
-</channels>
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20MENU%20FILMES</externallink>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</fanart>
-<info>
-
-
-[B][COLOR lime] COM VÁRIOS FILMES LANÇADOS EM 2020  
-
-E FILMES ANTIGOS QUE FIZERAM SUCESSO !!!
-
-BOA DIVERSÃO A TODOS !!!  [/COLOR][COLOR red]
+<name>[B][COLOR blue]TWO PLAY TV VIP [/COLOR] * [COLOR white](11) 9 6270-0455[/COLOR][/B]</name>
+<thumbnail>https://ia800604.us.archive.org/33/items/two-baixar/two%20baixar.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/two%20vip.xml</externallink>
+</channel> 
 
 
 
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+
+
+  
+  <channel>
+<name>[B][COLOR blue]CANAIS SEM TRAVAMENTOS, PLANOS MENSAL CHAMA NO ZAP [/COLOR] * [COLOR white](11) 9 6270-0455[/COLOR][/B]</name>
+<thumbnail>https://ia800604.us.archive.org/33/items/two-baixar/two%20baixar.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
+<externallink>https://www.mediafire.com/file/mu26mdhrfempsxv/TWO+ADDO-NS+playtv.zip/file</externallink>
+</channel> 
+  
+  
+  
+  <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TV AO VIVO - TESTES [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/servidores.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] SÉRIES [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20MENU%20S%C3%89RIES</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3HNxFV83aT8bpoo1zR6LQaLHuu.jpg</fanart>
-<info>
-
-[B][COLOR lime] AS MELHORES SÉRIES !!! SÉRIES ANTIGAS QUE FIZERAM SUCESSO....CONFIRAM !!![/COLOR] [COLOR red] 
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes/two%20addonsFILMES.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/filmes.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+
+  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DESENHOS [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20MENU%20DESENHOS</externallink>
-<thumbnail>https://ia601409.us.archive.org/30/items/filmes_20191129/INFANTIL.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBDs1y1fK921HrhdRMqlloUqp5Z.jpg</fanart>
-<info>
-
-
-[B][COLOR lime] DESENHOS DIVERSOS !!! [/COLOR] [COLOR red]
-
-
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] SÉRIES [/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+  
+ <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] NOVELAS TURCAS [/COLOR][/B] [B][COLOR green] ON [/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] DOCUMENTÁRIOS [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20MENU%20DOCUMENT%C3%81RIO</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEtvGLaRgHcnwvc_Jgb7NQ0JQrEt63hy_gDlv1Tbza3ul02PjI</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1s2ZAL4Slk7TdyWY5qNYZifqCmqcETJTRES5_NwUK_CPy_Kmc</fanart>
-<info>
-
-
-[B][COLOR lime] DOCUMENTÁRIOS  DIVERSOS !!! [/COLOR] [COLOR red]
-
-
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CLASSICOS [/COLOR][/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/classicos.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
+  
+  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] SHOWS [/COLOR] [/B]</name>
-<externallink>https://raw.githubusercontent.com/arifelcris/ELETRONICACENTRAL/master/3%20SHOWS</externallink>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ0aCMKSfWWyAexI5QVV2XgxOQn.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ0aCMKSfWWyAexI5QVV2XgxOQn.jpg</fanart>
-<info>
-
-
-[B][COLOR lime] SHOWS  DIVERSOS !!! [/COLOR] [COLOR red]
-
-
-
-
-
-
-
-
-
-ELETRÔNICA CENTRAL
-JOAÇABA S/C  
-CEP 89600-000
-(49) 35221837  
-eletrocentral1@gmail.com
-[/COLOR][/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]DESENHOS, ANIMES [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/desenhos.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+
+
+
+  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] ADDON COYOTEPLAY [/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/billwebplay/Home/master/CoyoteEntrada</externallink>
-<thumbnail>https://i.ibb.co/F41S0Dr/Logo.jpg</thumbnail>
-<fanart>https://i.ibb.co/F41S0Dr/Logo.jpg</fanart>
-<info>
-
-
-
-[B][COLOR lime] ADDON COYOTEPLAY [/COLOR] [/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
+<thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu/two%20addonsTOKUSATSU.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]SERIES JAPONESAS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+
+  
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] ADDON LUMINART STUDIO [/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2-CATEGORIAS</externallink>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/iconentrada</fanart>
-<info>
-
-
-
-[B][COLOR lime] ADDON LUMINART STUDIO [/COLOR] [/B]</info>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] RADIO GOSPEL [/COLOR][/B]</name>
+<thumbnail>https://ia601503.us.archive.org/18/items/two-addons-gospel/two%20addons%20GOSPEL.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/RADIO.xml</externallink>
 </channel>
+  
+ 
+<channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] RADIO GOSPEL [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon TWOADDONS BR [/COLOR]</info>
+<externallink></externallink>
+</channel>  
+  
+  
+  <channel>
+<name>[B][COLOR blue]TWOADDONS BR[/COLOR] * [COLOR white] CANAL RICOS TV WEB  [/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
+<thumbnail>https://ia601505.us.archive.org/33/items/logo-canal-ricos-fundo-branco_202209/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
+<fanart>https://ia601509.us.archive.org/3/items/canal-rico/canal%20rico.png</fanart>
+<info>CANAL RICOS perus/SP, Maiores informações, Dúvidas e custos, por favor entrar em contato conosco.
+F: (11) 3918-8581 / (11) 98870-0735</info>
+</channel>
+  
+ 
+  
+  <channel>
+<name>[B][COLOR blue] DOAÇÃO VIA PIX AO TWOADDONS BR[/COLOR] * [COLOR white]( FERNANDOARAUJO1007@OUTLOOK.COM )[/COLOR][/B]</name>
+<thumbnail>https://ia601501.us.archive.org/33/items/pix_20221008/pix.jpg</thumbnail>
+<fanart>https://ia601501.us.archive.org/33/items/pix_20221008/pix.jpg</fanart>
+<info>[COLOR blue]*[COLOR blue]AJUDE NO PROJETO TWOADDONS BR [/COLOR]</info>
+<externallink>https://0.0.0</externallink>
+</channel>
+  
+  
 </channels>
-
-
